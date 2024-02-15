@@ -2,7 +2,7 @@ Project is designed to take user`s name, date, location and output weather forec
 
 Requirements
   
-  Python 3.8.0
+    Python 3.8.0
 
 How to run
 
